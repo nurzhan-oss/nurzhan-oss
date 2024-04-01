@@ -1,8 +1,7 @@
 ### Hi there 👋
 Just another guy looking to make developer workflow more awesome, build performant projects, understand memory, and ultimately craft really awesome software.
 
-❤️neovim, linux <br />
-🫲telegram, linkedin: @nurzhanx
+❤️neovim
 <!--
 **nurzhan-oss/nurzhan-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
